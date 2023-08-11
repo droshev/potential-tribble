@@ -1,0 +1,23 @@
+{
+  "name": "deno-version",
+  "version": "0.1.0-rc.0",
+  "description": "deno app for version testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droshev/potential-tribble.git"
+  },
+  "keywords": [
+    "sematic",
+    "version"
+  ],
+  "author": "droshev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/droshev/potential-tribble/issues"
+  },
+  "homepage": "https://github.com/droshev/potential-tribble#readme"
+}
