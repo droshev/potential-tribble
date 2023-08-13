@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/droshev/potential-tribble#readme",
   "devDependencies": {
-    "conventional-changelog-cli": "^3.0.0"
+    "conventional-changelog-cli": "^3.0.0",
+    "lerna": "^7.1.5"
   }
 }
